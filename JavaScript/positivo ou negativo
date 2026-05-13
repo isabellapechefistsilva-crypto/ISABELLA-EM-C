@@ -1,0 +1,10 @@
+let num;
+
+num = prompt("escreva um numero");
+
+if (num >= 0){
+    console.log("negativo");
+}else{
+    console.log("negativo");
+
+}
