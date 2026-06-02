@@ -1,0 +1,7 @@
+let a = prompt(number("digite um numero");
+fou(let i=0;i<=a;i++){
+if(i%5==0){
+console.log("multiplos de 5");
+}else{
+console.log("não e multiplo");
+}
