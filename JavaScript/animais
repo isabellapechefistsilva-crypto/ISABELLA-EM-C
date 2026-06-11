@@ -1,0 +1,15 @@
+let animais = ["gato","cachorro", "coelho"];
+console.log(animais);
+
+animais.push ("raposa")
+console.log(animais);
+
+animais.unshift("ave")
+console.log(animais);
+
+animais.pop("raposa")
+console.log(animais);
+
+console.log("gato");
+
+console.log(animais.length)
