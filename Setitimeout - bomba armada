@@ -1,0 +1,5 @@
+console.log("Bomba armada...");
+
+setTimeout(() => {
+    console.log(" BOOM!");
+}, 4000);
