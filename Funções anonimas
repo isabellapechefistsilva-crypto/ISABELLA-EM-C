@@ -1,0 +1,22 @@
+1.
+const mostrarMensagem = function() {
+    console.log("Minha primeira função anônima!");
+};
+
+mostrarMensagem();
+
+
+
+2.
+const quadrado = function(numero) {
+    return numero * numero;
+};
+
+
+3.
+const ehPar = function(numero) {
+    return numero % 2 === 0;
+};
+
+console.log(ehPar(8)); // true
+console.log(ehPar(5)); // false
