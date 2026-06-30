@@ -1,6 +1,6 @@
 let usuario = {
-    nome: "Gabriel Nunes", 
-    email: "gabriel.nunes@gmail.com", 
+    nome: "Isabella Pechefist", 
+    email: "Isabellapechefist079@gmail,com", 
     idade: 17, 
    estaAtivo:true
 };
@@ -11,7 +11,7 @@ console.log(usuario.estaAtivo);
 
 console.log(usuario.idade + 1); 
 
-usuario.telefone = 9992326758,
+usuario.telefone = 44999953701,
 console.log(usuario.telefone); 
 
 usuario.desativado = function desativado(){
